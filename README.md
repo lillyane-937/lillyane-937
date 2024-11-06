@@ -25,7 +25,7 @@ I'm **Lilly Anestal**, a passionate **Computer Science senior** at Boston Univer
 ### 🚀 Projects
 Here are a few projects I've worked on:
 
-1. **[Art of the Chicago Museum Digital Showcase](https://github.com/lillyane-937/mp-2)**  
+1. **[Museum of Chicago Digital Art Gallery](https://github.com/lillyane-937/mp-2)**  
    Developed a responsive web page using the Chicago Art Museum API, allowing users to explore the museum's artworks on their mobile devices.  
    - **Tech Stack**: HTML5, React, TypeScript, Styled Components  
    - **Learnings**: Front-end and back-end development of web applications, API integration  
