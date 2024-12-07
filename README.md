@@ -33,8 +33,12 @@ Here are a few projects I've worked on:
 2. **[Online Resume](https://github.com/lillyane-937/mp-1)**  
    Created an interactive online resume featuring a calculator tool, showcasing my skills and projects.  
    - **Tech Stack**: HTML5, CSS, JavaScript  
-   - **Learnings**: Front-end development, responsive design, web development  
+   - **Learnings**: Front-end development, responsive design, web development
+
+3. **[LLM Network Impairments (In Progress)](https://github.com/BTTAI-Team-6)**  
+   Collaborating with Break Through Tech AI and OpenVault to develop a Large Language Model (LLM) capable of identifying and predicting network impairments 
+   - **Tech Stack**: Python, TensorFlow, Hugging Face Transformers, BERT 
+   - **Learnings**: Machine learning workflows, LLM fine-tuning, collaborative development, real-world AI applications
 
 ---
 
-Let’s connect and bring ideas to life together! 🌟
